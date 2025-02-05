@@ -190,6 +190,8 @@
 1,0,TFFF,ponightmare_chr,Loading Characters
 1,0,TFFF,pojustice_chr,Loading Characters
 1,0,TFFF,potactics_chr,Loading Characters
+1,0,TFFF,potorment_chr,Loading Characters
+1,0,TFFF,sro_chr,Loading Characters
 1,0,TFFF,pri_chr,Loading Characters
 1,0,TFFF,pum_chr,Loading Characters
 1,0,TFFF,pus_chr,Loading Characters
